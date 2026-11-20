@@ -1,0 +1,23 @@
+
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "nombre": "Administrador SushiTo",
+        "pais": "España",
+        "telefono": "612345678",
+        "correo": "admin@sushito.es",
+        "avatar": "admin.png",
+        "rol": "administrador"
+    },
+    {
+        "username": "cliente1",
+        "password": "123456",
+        "nombre": "Cliente 1",
+        "pais": "España",
+        "telefono": "678123456",
+        "correo": "cliente1@gmail.com",
+        "avatar": "avatar1.png",
+        "rol": "cliente"
+    }
+]
